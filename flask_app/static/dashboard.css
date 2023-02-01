@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+}
+.container{
+    width: 1000px;
+    margin-top: 20px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.a-tags{
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,31 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.top_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.right_header{
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
+}
+.sub_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.body{
+    border: 2px solid black;
+    padding: 20px;
+}
+.inline{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+p{
+    width: 75%;
+}

@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+}
+.container{
+    width: 1000px;
+    margin-top: 20px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.a-tags{
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.left-form{
+    background-color: rgb(47, 97, 107);
+    color: aliceblue;
+    width: 250px;
+}
+.right-form{
+    background-color: aqua;
+    height: 400px;
+    width: 250px;
+
+}
